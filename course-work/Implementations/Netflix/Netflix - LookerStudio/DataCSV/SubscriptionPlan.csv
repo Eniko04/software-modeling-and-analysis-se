@@ -1,0 +1,11 @@
+"PLAN_ID","NAME","PRICE","DURATION_MONTHS","RESOLUTION","SCREENS"
+1,"Basic",9.99,1,"HD",1
+2,"Standard",14.99,1,"Full HD",2
+3,"Premium",19.99,1,"4K",4
+4,"Family",24.99,1,"4K",6
+5,"Student",7.99,1,"SD",1
+6,"Annual Basic",99.99,12,"HD",1
+7,"Annual Premium",199.99,12,"4K",4
+8,"Mobile Only",5.99,1,"HD",1
+9,"Business",49.99,1,"4K",8
+10,"Trial",0,1,"HD",1

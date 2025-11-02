@@ -1,0 +1,11 @@
+"USER_ID","NAME","EMAIL","PHONE","PASSWORD","SIGNUP_DATE","COUNTRY","DEVICE_TYPE","PLAN_ID"
+1,"Ivan Ivanov","ivan@abv.bg","0888123456","pass123",2025-10-27,"Bulgaria","Smart TV",1
+2,"Maria Petrova","maria@gmail.com","0899123456","mypass",2025-10-27,"Bulgaria","Mobile",2
+3,"Georgi Kolev","georgi@abv.bg","0888456789","gkpass",2025-10-25,"Bulgaria","Laptop",3
+4,"Elena Dimitrova","elena@yahoo.com","0889012345","elena321",2025-10-20,"Bulgaria","Tablet",4
+5,"Petar Georgiev","p.georgiev@mail.bg","0899456123","petarpass",2025-10-21,"Bulgaria","Smart TV",5
+6,"Stoyan Stoyanov","stoyan@gmail.com","0888888888","sto123",2025-09-15,"Bulgaria","Mobile",6
+7,"Nikol Manolova","nikol@abv.bg","0899555555","nikolpass",2025-09-12,"Bulgaria","Laptop",7
+8,"Daniel Popov","daniel@popov.com","0888777777","danpass",2025-09-30,"Bulgaria","Smart TV",8
+9,"Kristina Ilieva","k.ilieva@mail.bg","0899111222","krisi1",2025-09-25,"Bulgaria","Mobile",9
+10,"Mihail Borisov","mihail@borisov.bg","0899333444","misho321",2025-10-05,"Bulgaria","Tablet",10
